@@ -6,7 +6,6 @@ on:
       - main
   schedule:
     - cron: "0 0 * * *"
-
  devcard:
     runs-on: ubuntu-latest
     steps:
