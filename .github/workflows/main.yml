@@ -1,0 +1,24 @@
+# This is a basic workflow to help you get started with Actions
+
+name: DevCard
+
+# Controls when the workflow will run
+on:
+  # Triggers the workflow on push or pull request events but only for the main branch
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+  schedule:
+    - cron: "0 0 * * *"
+
+ devcard:
+    runs-on: ubuntu-latest
+    steps:
+      - name: devcard
+        uses: dailydotdev/action-devcard@2.0.2
+        with:
+          devcard_id: ${{ secrets.DEVCARD_ID }}
+          
+ 
+      
