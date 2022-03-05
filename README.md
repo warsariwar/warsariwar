@@ -1,5 +1,5 @@
 ### Hi there 👋
-<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/warsariwar/warsariwar/blob/master/devcard.svg" width="400" alt="War SariWar's Dev Card"/></a>
+<a href="https://app.daily.dev/warsariwar"><img src="https://github.com/warsariwar/warsariwar/blob/master/devcard.svg" width="400" alt="War SariWar's Dev Card"/></a>
 
 **warsariwar/warsariwar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
